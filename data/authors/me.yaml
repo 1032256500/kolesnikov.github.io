@@ -46,7 +46,60 @@ education:
     summary: |
         Обучась на направлении НПИ(прикладная информатика)
 
+skills:
+  - name: Backend Development
+    items:
+      - label: Python
+        level: 4
+      - label: SQLAlchemy
+        level: 3
+      - label: PostgreSQL
+        level: 3
+      - label: FastAPI
+        level: 2
 
+  - name: Tools & Technologies
+    items:
+      - label: Git
+        level: 4
+      - label: Linux
+        level: 4
+      - label: Docker
+        level: 2
+      - label: Hugo
+        level: 3
+
+experience:
+  - role: Founder & Developer
+    org: FTM Project
+    start: 2025-01-01
+    summary: |
+      Разработка собственного проекта вместе с командой.
+      Работа над архитектурой, backend-частью и автоматизацией.
+
+  - role: Backend Developer
+    org: Personal Projects
+    start: 2024-01-01
+    summary: |
+      Создание pet-проектов на Python.
+      Изучение backend-разработки и DevOps.
+
+
+awards:
+  - title: Участие в разработке FTM
+    date: "2026-05-16"
+    awarder: Personal Project
+    summary: |
+      Участие в разработке собственного проекта и построении архитектуры системы.
+
+languages:
+  - name: Russian
+    level: 5
+    label: Native
+
+  - name: English
+    level: 3
+    label: Intermediate
 
 
 
