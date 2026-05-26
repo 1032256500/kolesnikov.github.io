@@ -8,15 +8,16 @@ translationKey: home
 sections:
   - block: resume-biography-3
     content:
+      # Choose a user profile to display
       username: me
       text: ''
       button:
-        text: Скачать CV
+        text: Download CV
         url: uploads/resume.pdf
       headings:
-        about: Обо мне
-        education: Образование
-        interests: Интересы
+        about: About
+        education: Education
+        interests: Interests
     design:
       background:
         gradient_mesh:
@@ -31,21 +32,21 @@ sections:
 
   - block: markdown
     content:
-      title: '📚 Обо мне'
+      title: '📚 About Me'
       subtitle: ''
       text: |-
-        Я начинающий разработчик и предприниматель. Интересуюсь архитектурой программного обеспечения, backend-разработкой, автоматизацией процессов, искусственным интеллектом и кибербезопасностью.
+        I am a beginner developer and entrepreneur. I am interested in software architecture, backend development, process automation, artificial intelligence, and cybersecurity.
 
-        Вместе с командой я работаю над проектом FTM. Этот проект помогает мне применять на практике технические, управленческие и предпринимательские навыки.
+        I work on the FTM project together with my team. This project helps me apply technical, managerial, and entrepreneurial skills in practice.
 
-        На этом сайте размещена информация о моём образовании, интересах, навыках, опыте, проектах и учебных публикациях.
+        This website contains information about my education, interests, skills, experience, projects, and study-related publications.
     design:
       columns: '1'
 
   - block: collection
     id: papers
     content:
-      title: Избранные публикации
+      title: Featured Publications
       filters:
         folders:
           - publications
@@ -56,7 +57,7 @@ sections:
 
   - block: collection
     content:
-      title: Последние публикации
+      title: Recent Publications
       text: ''
       filters:
         folders:
@@ -68,7 +69,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Последние и предстоящие события
+      title: Recent & Upcoming Events
       filters:
         folders:
           - events
@@ -78,7 +79,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Последние записи
+      title: Recent Posts
       subtitle: ''
       text: ''
       page_type: blog

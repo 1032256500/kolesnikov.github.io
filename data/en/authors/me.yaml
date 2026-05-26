@@ -1,0 +1,63 @@
+schema: hugoblox/author/v1
+slug: me
+
+name:
+  display: Mikhail Kolesnikov
+  given: Mikhail
+  family: Kolesnikov
+  pronouns: he/him
+
+role: Beginner Developer and Entrepreneur
+
+bio: |
+  I am a beginner developer and entrepreneur.
+  My interests include software architecture, backend development,
+  automation, artificial intelligence, and cybersecurity.
+  I work on the FTM project together with my team.
+
+interests:
+  - Software architecture
+  - Backend development
+  - Process automation
+  - Artificial intelligence
+  - Cybersecurity
+  - Entrepreneurship
+
+education:
+  - degree: Student
+    institution: RUDN University
+    summary: |
+      I study applied informatics.
+      As part of my academic and project work, I focus on software development,
+      digital product management, and modern IT tools.
+
+experience:
+  - role: Founder & Developer
+    org: FTM Project
+    start: 2025-01-01
+    summary: |
+      Development of my own project together with a team.
+      Work on system architecture, backend development, and automation.
+
+  - role: Backend Developer
+    org: Personal Projects
+    start: 2024-01-01
+    summary: |
+      Development of Python pet projects.
+      Study of backend development, databases, Linux, and DevOps tools.
+
+awards:
+  - title: Participation in FTM Development
+    date: "2026-05-16"
+    awarder: Personal Project
+    summary: |
+      Participation in the development of my own project and system architecture.
+
+languages:
+  - name: Russian
+    level: 5
+    label: Native
+
+  - name: English
+    level: 3
+    label: Intermediate

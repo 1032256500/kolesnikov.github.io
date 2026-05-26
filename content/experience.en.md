@@ -1,5 +1,5 @@
 ---
-title: 'Опыт'
+title: 'Experience'
 date: 2023-10-24
 type: landing
 translationKey: experience
@@ -17,16 +17,16 @@ sections:
 
   - block: resume-skills
     content:
-      title: Навыки и интересы
+      title: Skills & Hobbies
       username: me
 
   - block: resume-awards
     content:
-      title: Достижения
+      title: Awards
       username: me
 
   - block: resume-languages
     content:
-      title: Языки
+      title: Languages
       username: me
 ---

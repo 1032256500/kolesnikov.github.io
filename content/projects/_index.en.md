@@ -1,5 +1,5 @@
 ---
-title: 'Проекты'
+title: 'Projects'
 date: 2024-05-19
 type: landing
 translationKey: projects
@@ -7,8 +7,8 @@ translationKey: projects
 sections:
   - block: collection
     content:
-      title: Избранные проекты
-      text: Здесь собраны мои учебные, личные и предпринимательские проекты.
+      title: Selected Projects
+      text: Here is a selection of my study-related, personal, and entrepreneurial projects.
       filters:
         folders:
           - projects
